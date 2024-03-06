@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+}
+.navbar{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.logo{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    background-image:url(https://www.shutterstock.com/image-vector/vector-logo-seven-colored-books-600nw-213407230.jpg);
+    background-size: cover;
+   align-self: center;
+}
+.home{
+    height: 70px;
+    width: 50px;
+    color: white;
+    display: flex;
+   align-items: center;
+}
+.about{
+    height: 70px;
+    width: 50px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+   align-items: center;
+}
+.contact{
+    height: 70px;
+    width: 50px;
+    color: white;
+    display: flex;
+   align-items: center;
+}
+input{
+    width: 400px;
+    height: 40px;
+    border-radius: 7px;
+}
+.cart{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-image: url(https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-add-to-cart-vector-icon-png-image_4142516.jpg);
+    background-size: cover;
+}
+.login{
+    height: 70px;
+    width: 50px;
+    color: white;
+    display: flex;
+   align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.explore{
+    height: 200px;
+    width: 100%;
+   display: flex;
+   align-items: center;
+background-color: #35374B;
+}
+.explore-line{
+    justify-content: center;
+    margin-left: 450px;
+    color: whitesmoke;
+   font-family:cursive;
+  font-weight:bolder;
+}
+.box3{
+    height: 350px;
+    width: 100%;  
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #35374B;
+}
+.content1{
+height: 299px;
+width: 200px;
+width: 100%;
+margin-left: 20px;
+}
+.novel{
+height: 260px;
+width: 300px;
+background-image: url(https://www.bookgeeks.in/wp-content/uploads/2020/06/Best-Indian-Books-by-Indian-Authors-1-1024x768.jpg);
+background-size: cover;
+color: black;
+text-decoration: none;
+}
+.text{
+    height: 45px;
+    width: 300px;
+    background-color: #9BB0C1;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+.content2{
+    height: 299px;
+width: 200px;
+width: 100%;
+}
+.fiction{
+    height: 260px;
+width: 300px;
+background-image: url(https://assets.gqindia.com/photos/63ae9287c3feba94029eddc7/16:9/w_2560%2Cc_limit/Best-Indian-Fiction-2022_02.jpg);
+background-size: cover;
+
+}
+.content3{
+    height: 299px;
+    width: 200px;
+    width: 100%;
+}
+.nonfiction{
+    height: 260px;
+    width: 300px;
+    background-image: url(https://sc0.blr1.cdn.digitaloceanspaces.com/article/164056-bgdheytqbx-1631695839.jpeg);
+    background-size: cover;
+    
+
+}
+.content4{
+    height: 299px;
+    width: 200px;
+    width: 100%;
+}
+.horror{
+    height: 260px;
+    width: 300px;
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/best-horror-books-65415b06c7075.jpg?crop=0.505xw:1.00xh;0,0&resize=640:*);
+    background-size: cover;
+}
+a{
+    color: black;
+}
